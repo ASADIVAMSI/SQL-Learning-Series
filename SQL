@@ -1,0 +1,19 @@
+								==============================
+								SQL(strutered Query Language)
+								==============================
+
+
+-SQL is standardized programming language specially designed for managing and manipulation relation database.
+
+=>Types of Sql Commands
+
+						Commands
+
+
+1.DDL       2.DML         3.TCL         4.DCL        5.DQL
+
+-CREATE		-INSERT       -COMMIT		-GRANT		-SELECT
+-ALTER		-UPDATE		  -ROLLBACK		-REVOKE
+-DROP		-DELETE		  -SVAEPOINT
+-TRUNCATE	-LOCK
+-RENAME
