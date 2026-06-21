@@ -27,3 +27,7 @@ CREATE TABLE employees(
 DESC employees;
 
 
+How many ways can we use the CREATE command in SQL?
+
+A: The CREATE command can be used to create various database objects such as DATABASE, TABLE, VIEW, INDEX, PROCEDURE, FUNCTION, TRIGGER, SCHEMA, SEQUENCE, and USER. It is a DDL command used to define new objects in the database.
+
